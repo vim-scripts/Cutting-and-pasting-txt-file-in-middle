@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2396
+
+Some times you want to cut text file from A colomn to B colomn for N number of rows, rather then making a awk/sed secript try this script for vertical copy and paster,
+
+  Move curser where you want to perform rectangle copy press Ctrl-C and move again your curser to place where to you want to copy to buffer Press Ctrl-C again.
+
+  Now you take curser to line where you want to paste it vertically and press Ctrl-Y.
